@@ -1,9 +1,3 @@
-# Black Jack
-
-### 
-
-#### A simple application useful for learning Java OOP fundamentals.
-
 # Blackjack Game
 
 ### A Java console application oop game of Blackjack. Hit or Stick your way to being the closest to 21, against a Dealer with conditional logic/AI (not ML or Data Science concepts).
